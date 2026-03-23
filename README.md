@@ -6,7 +6,18 @@ The platform combines modern UI + backend APIs + AI integration to deliver a sea
 
 
 ## Live Demo
-Live URL: [ScholarsHub](htt)
+
+Live URL: [ScholarsHub](https://scholars-hub-seven.vercel.app/)
+
+
+
+
+<img width="1886" height="968" alt="Screenshot 2026-03-23 212817" src="https://github.com/user-attachments/assets/61a78007-55c4-49e4-b3d9-e42acc57be80" />
+
+
+<img width="1880" height="983" alt="Screenshot 2026-03-23 212851" src="https://github.com/user-attachments/assets/6fc2e8b3-663d-4af8-b0d7-bea15702d429" />
+
+
 
 ## GitHub Repository
 Repository: [Education Platform with AI Chatbot](https://github.com/harshtiwari2022/smart-parking-system)
@@ -79,7 +90,7 @@ server/
    ```
 2. Navigate to the project directory:
     ```bash
-    cd devcoach-AI
+    cd ScholarsHub 
     ```
 3. Install dependencies:
     ```bash 
